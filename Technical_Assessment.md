@@ -53,7 +53,7 @@ We also take into consideration the answers to the technical questions file and 
 ## How to deliver this test
 
 - Create a **private repository** on Github and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
-- When you are done, invite the user **anandsingh16** **sanjayprakash72** as a contributor to the repo and then **notify us**.
+- When you are done, invite the user **anandsingh16** and **sanjayprakash72** as a contributor to the repo and then **notify us**.
 - **If you have any questions, send us a message.**
 - Good luck!
 
