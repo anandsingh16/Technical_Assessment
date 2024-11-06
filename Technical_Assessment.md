@@ -1,6 +1,6 @@
 # Tech Assessment for Test Automation Engineers
 
-In this test assignment, we would like to ask you to create two small test suits.
+In this test assignment, we would like to ask you to create three small test suites.
 
 ## 1. Upload a valid file (PDF) from windows drag drop
 
@@ -24,6 +24,9 @@ we will be testing this system: https://www.ilovepdf.com/pdf_to_word
 2.	click on the select PDF file button and upload an Non PDF file (Like Word file)
 3.	Verify the toster message for invalid file
 
+## 3. Excel compare
+1. Write a custom function in python and call it to compare excel files using Robot framework.
+
 ## Task requirements
 
 Feel free to spend as much or as little time on the exercise as you like as long as the requirements have been met. 
@@ -31,7 +34,7 @@ However, we understand people have busy lives so feel free to spend no more than
 # You will be ineligible if you take more than 24 hours after receiving the link to share the solution. 
 We also take into consideration the answers to the technical questions file and what you would like to have added if you had more time. You should look at this as the complete solution, it's much quicker to explain what you would like to have done than coding it. 
 
-- **You should use Robot framework as our Test framework/tool**.
+- **You should use "Robot framework" as our Test framework/tool**.
 
 - **Create just one project/repository for both tests**.
 
@@ -50,7 +53,7 @@ We also take into consideration the answers to the technical questions file and 
 ## How to deliver this test
 
 - Create a **private repository** on Github and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
-- When you are done, invite the user **anand05singh** as a contributor to the repo and then **notify us**.
+- When you are done, invite the user **anandsingh16** **sanjayprakash72** as a contributor to the repo and then **notify us**.
 - **If you have any questions, send us a message.**
 - Good luck!
 
