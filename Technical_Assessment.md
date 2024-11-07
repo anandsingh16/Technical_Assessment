@@ -36,7 +36,7 @@ We also take into consideration the answers to the technical questions file and 
 
 - **You should use "Robot framework" as our Test framework/tool**.
 
-- **Create just one project/repository for both tests**.
+- **Create just one project/repository for all tests**.
 
 - Feel free to use whatever frameworks / libraries / packages you like besides that.
 
